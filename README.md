@@ -8,3 +8,7 @@ To install the base requirements for this project run:
 1. conda create --name karla --file requirements.txt
 2. conda activate karla
 ```
+
+
+### Current State
+Currently all experimentation was done in KARLA.ipynb
